@@ -2,6 +2,6 @@
 
 This is a Sample repo for the class
 
-##test1
+## test1
 
-###test2
+### test2
